@@ -1,6 +1,7 @@
-<h1 style="color:#f0f6fc">Hi &#128075;, I'm Fluffy_Kaiju (aka mahadad)</h1>
-<h3 style="color:#f0f6fc">Student @ <a style="color:#f0f6fc" href="https://42belgium.be">42belgium</a> part of <a style="color:#f0f6fc" href="https://www.42.fr/42-network/">network42</a></h3>
-
+<h1 style="color:#f0f6fc">Hi &#128075;, I'm Matthew Hadad (aka Fluffy Kaiju)</h1>
+  <p>
+    <strong>Backend Engineer</strong> @ <a href="https://www.aikido.dev/">Aikido Security</a> · Working on <a href="https://www.aikido.dev/code/autofix">Autofix</a>
+  </p>
 <div style="display: grid;">
   <img src="https://gitlab.com/the-reformed-church-of-gnu/antipixel-recovery/-/raw/main/raw_artefact/cyber.dabamos.de/linux_powered.gif" />
   <img src="https://gitlab.com/the-reformed-church-of-gnu/antipixel-recovery/-/raw/main/raw_artefact/cyber.dabamos.de/linuxnow.gif" />
