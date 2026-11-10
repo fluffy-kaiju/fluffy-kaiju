@@ -1,4 +1,4 @@
-<h1 style="color:#f0f6fc">Hi &#128075;, I'm Matthew Hadad (aka Fluffy Kaiju)</h1>
+<h1 style="color:#f0f6fc">Hi &#128075;, I'm Fluffy Kaiju (aka Matthew Hadad)</h1>
   <p>
     <strong>Backend Engineer</strong> @ <a href="https://www.aikido.dev/">Aikido Security</a> · Working on <a href="https://www.aikido.dev/code/autofix">Autofix</a>
   </p>
